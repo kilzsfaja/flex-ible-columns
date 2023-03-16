@@ -1,0 +1,56 @@
+.container{
+    width: 700px;
+    margin: 50px auto;
+    gap: 10px;
+}
+
+.container2{
+  width: 700px;
+  margin: 50px auto;
+  gap: 10px;  
+}
+
+.container3{
+  width: 700px;
+  margin: 50px auto;
+  gap: 10px;  
+}
+
+.col{
+    background-color: cornflowerblue;
+    min-height: 200px;
+    flex: 4;
+    text-align: center;
+}
+
+.col1{
+  background-color: aquamarine;
+  min-height: 200px;
+  flex: 1;
+}
+
+.col2{
+    background-color: cadetblue;
+    min-height: 200px;
+    flex: 3;
+}
+
+.col-2{
+  background-color: lightsteelblue;
+  min-height: 200px;
+  flex: 2;
+}
+
+
+.col-3{
+    background-color: darkslateblue;
+    min-height: 200px;
+    flex: 4;
+}
+
+.flex{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
